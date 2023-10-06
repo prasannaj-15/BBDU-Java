@@ -1,5 +1,3 @@
-package com.demo;
-
 import java.util.Scanner;
 
 // Example 1 - create an object, using object assign values to instance variables and using object call methods
